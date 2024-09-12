@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+nav {
+    position: fixed top;
+    background-color: rgb(90, 103, 177);
+}
+
+li{
+    text-decoration: none;
+}
+
+.menu{
+    position: relative;
+    text-align: right;
+}
+
+.menu-item {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    color: rgb(1, 6, 54);
+    display: inline-block;
+    margin: 0.5em 2em;
+}
+
+.index{
+    position: absolute;
+    left: 0.5em;
+}
+
+
+
+
+
+
