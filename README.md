@@ -4,7 +4,7 @@ Ejercicio individual: Propiedad Position. Diseño y Desarrollo Web, UADE
 
 ## Consigna:
 
-Crea un archivo HTML básico con un elemento <nav> que servirá como el contenedor del menú de navegación de una página web para un emprendimiento de velas aromáticas.  
+Crea un archivo HTML básico con un elemento "nav" que servirá como el contenedor del menú de navegación de una página web para un emprendimiento de velas aromáticas.  
 
 1. Utiliza CSS para dar estilo al menú y posicionarlo en la parte superior de la página. Puedes utilizar valores de position como relative o fixed para ello.  
 
